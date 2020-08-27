@@ -4,6 +4,6 @@ Questions should be directed to sjanzen@brocku.ca
 
 Intro to ArcGIS Online: [Part ONE](https://github.com/BrockDSL/AGOL/blob/master/Intro%20to%20AGOL%20Part%20One%20-%20Tutorial.pdf)
 
-Intro to ArcGIS Online: [Part TWO](https://github.com/BrockDSL/AGOL/blob/master/Intro%20to%20ArcGIS%20Online%20PART%20TWO%20-%20tutorial.pdf)
+Intro to ArcGIS Online: [Part TWO](https://github.com/BrockDSL/AGOL/blob/master/Intro%20to%20AGOL%20Part%20Two%20-%20tutorial.pdf)
 
 Intro to ArcGIS Online: Part THREE (coming soon!)
